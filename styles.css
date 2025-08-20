@@ -183,7 +183,7 @@ ul,li {
 }
 
 .button:hover{
-	border: 2px solid ;
+	border: 2px solid #81C3C5;
 	background: #ffffff;
 }
 
@@ -213,4 +213,5 @@ ul,li {
 .img-full{
 	width: 700px;
 ]
+
 
